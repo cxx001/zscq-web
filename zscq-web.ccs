@@ -1,0 +1,30 @@
+<Solution>
+  <PropertyGroup Name="zscq-web" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="UI">
+          <Image Name="login_1.png" />
+          <Image Name="login_10.png" />
+          <Image Name="login_11.png" />
+          <Image Name="login_12.png" />
+          <Image Name="login_13.png" />
+          <Image Name="login_14.jpg" />
+          <Image Name="login_15.jpg" />
+          <Image Name="login_16.png" />
+          <Image Name="login_17.png" />
+          <Image Name="login_18.png" />
+          <Image Name="login_2.png" />
+          <Image Name="login_3.png" />
+          <Image Name="login_6.png" />
+          <Image Name="login_8.png" />
+          <Image Name="login_9.png" />
+          <PlistParticleFile Name="particle02.plist" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="LoginUI.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,863 @@
+{
+  "ID": "3aec3745-b8a2-486a-8b3f-4b56713a5b68",
+  "Version": "3.10.0.0",
+  "Name": "LoginUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 16,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "Tag": 662,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UI/login_14.jpg",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 994,
+                "Scale9Height": 610,
+                "StretchHeightEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0667,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BothEdge",
+                "RightMargin": -64.0,
+                "Tag": 110,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UI/login_15.jpg",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 337,
+                    "Scale9OriginY": 211,
+                    "Scale9Width": 350,
+                    "Scale9Height": 218,
+                    "StretchHeightEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1024.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 1024.0,
+                    "RightMargin": -1024.0,
+                    "Tag": 111,
+                    "ActionTag": 679274761,
+                    "Size": {
+                      "X": 1024.0,
+                      "Y": 640.0
+                    },
+                    "Name": "Image_bg2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 784888045,
+                "Size": {
+                  "X": 1024.0,
+                  "Y": 640.0
+                },
+                "Name": "Image_bg1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/defaultParticle.plist",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 480.0,
+                  "Y": 300.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4688
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 480.0,
+                "RightMargin": 480.0,
+                "TopMargin": 340.0,
+                "BottomMargin": 300.0,
+                "Tag": 182,
+                "ActionTag": -2105478038,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Particle_bg",
+                "ctype": "ParticleObjectData"
+              }
+            ],
+            "ActionTag": -116190344,
+            "Size": {
+              "X": 960.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/defaultParticle.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 480.0,
+            "RightMargin": 480.0,
+            "TopMargin": 320.0,
+            "BottomMargin": 320.0,
+            "Tag": 3211,
+            "ActionTag": 292298110,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Particle_1",
+            "ctype": "ParticleObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "UI/login_16.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "UI/login_16.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 22,
+            "Scale9Width": 17,
+            "Scale9Height": 18,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 912.0,
+              "Y": 583.68
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.95,
+              "Y": 0.912
+            },
+            "PreSize": {
+              "X": 0.049,
+              "Y": 0.0922
+            },
+            "LeftMargin": 888.5,
+            "RightMargin": 24.5,
+            "TopMargin": 26.82,
+            "BottomMargin": 554.18,
+            "Tag": 193,
+            "ActionTag": 41364718,
+            "Size": {
+              "X": 47.0,
+              "Y": 59.0
+            },
+            "Name": "Button_notice",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "UI/login_17.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "UI/login_17.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 22,
+            "Scale9Width": 18,
+            "Scale9Height": 15,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 912.0,
+              "Y": 514.048
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.95,
+              "Y": 0.8032
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.0875
+            },
+            "LeftMargin": 888.0,
+            "RightMargin": 24.0,
+            "TopMargin": 97.952,
+            "BottomMargin": 486.048,
+            "Tag": 108,
+            "ActionTag": 1041162024,
+            "Size": {
+              "X": 48.0,
+              "Y": 56.0
+            },
+            "Name": "Button_change",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 485.568,
+              "Y": 84.7422
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5058,
+              "Y": 0.1324
+            },
+            "PreSize": {
+              "X": 0.2667,
+              "Y": 0.2688
+            },
+            "LeftMargin": 357.568,
+            "RightMargin": 346.432,
+            "TopMargin": 469.2578,
+            "BottomMargin": -1.2578,
+            "Tag": 121,
+            "ActionTag": 1964765376,
+            "Size": {
+              "X": 256.0,
+              "Y": 172.0
+            },
+            "Name": "Button_loginB",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "UI/login_2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 208,
+            "Scale9OriginY": 20,
+            "Scale9Width": 216,
+            "Scale9Height": 21,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 193.024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3016
+            },
+            "PreSize": {
+              "X": 0.6583,
+              "Y": 0.0953
+            },
+            "LeftMargin": 164.0,
+            "RightMargin": 164.0,
+            "TopMargin": 416.476,
+            "BottomMargin": 162.524,
+            "Tag": 114,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UI/login_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 150,
+                "Scale9OriginY": 87,
+                "Scale9Width": 156,
+                "Scale9Height": 90,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 316.0,
+                  "Y": 249.002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 4.082
+                },
+                "PreSize": {
+                  "X": 0.7215,
+                  "Y": 4.3279
+                },
+                "LeftMargin": 88.0,
+                "RightMargin": 88.0,
+                "TopMargin": -320.002,
+                "BottomMargin": 117.002,
+                "Tag": 116,
+                "ActionTag": -1175098438,
+                "Size": {
+                  "X": 456.0,
+                  "Y": 264.0
+                },
+                "Name": "Image_gameIcon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UI/login_18.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 150,
+                "Scale9OriginY": 87,
+                "Scale9Width": 156,
+                "Scale9Height": 90,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 316.0,
+                  "Y": 249.002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 4.082
+                },
+                "PreSize": {
+                  "X": 0.7215,
+                  "Y": 4.3279
+                },
+                "LeftMargin": 88.0,
+                "RightMargin": 88.0,
+                "TopMargin": -320.002,
+                "BottomMargin": 117.002,
+                "Tag": 3212,
+                "ActionTag": -1501712404,
+                "Size": {
+                  "X": 456.0,
+                  "Y": 264.0
+                },
+                "Name": "Image_gameName",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "最近登入:",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 35.5145,
+                  "Y": 30.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 223,
+                  "G": 173,
+                  "B": 82
+                },
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0562,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1566,
+                  "Y": 0.3607
+                },
+                "LeftMargin": 35.5145,
+                "RightMargin": 497.4855,
+                "TopMargin": 19.5,
+                "BottomMargin": 19.5,
+                "Tag": 117,
+                "ActionTag": 664890183,
+                "Size": {
+                  "X": 99.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UI/login_12.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 10,
+                "Scale9Width": 21,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 227.4973,
+                  "Y": 30.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.36,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0902,
+                  "Y": 0.541
+                },
+                "LeftMargin": 198.9973,
+                "RightMargin": 376.0027,
+                "TopMargin": 14.0,
+                "BottomMargin": 14.0,
+                "Tag": 115,
+                "ActionTag": -1472349560,
+                "Size": {
+                  "X": 57.0,
+                  "Y": 33.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_SerState",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 293.54,
+                  "Y": 30.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4645,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 293.54,
+                "RightMargin": 338.46,
+                "TopMargin": 30.5,
+                "BottomMargin": 30.5,
+                "Tag": 118,
+                "ActionTag": 1478573255,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Text_SerDes",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UI/login_3.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 10,
+                "Scale9Width": 32,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 544.699,
+                  "Y": 30.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8619,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1424,
+                  "Y": 0.541
+                },
+                "LeftMargin": 499.699,
+                "RightMargin": 42.301,
+                "TopMargin": 14.0,
+                "BottomMargin": 14.0,
+                "Tag": 119,
+                "ActionTag": 713581261,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_6",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 576681371,
+            "Size": {
+              "X": 632.0,
+              "Y": 61.0
+            },
+            "Name": "Image_selectSer",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "v.1",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 948.8494,
+              "Y": 17.9273
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9884,
+              "Y": 0.028
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0281
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 921.8494,
+            "RightMargin": 11.1506,
+            "TopMargin": 613.0727,
+            "BottomMargin": 8.9273,
+            "Tag": 32,
+            "ActionTag": 507255300,
+            "Size": {
+              "X": 27.0,
+              "Y": 18.0
+            },
+            "Name": "Text_tag",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/defaultParticle.plist",
+        "UI/login_1.png",
+        "UI/login_12.png",
+        "UI/login_14.jpg",
+        "UI/login_15.jpg",
+        "UI/login_16.png",
+        "UI/login_17.png",
+        "UI/login_18.png",
+        "UI/login_2.png",
+        "UI/login_3.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

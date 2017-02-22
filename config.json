@@ -2,7 +2,7 @@
   "init_cfg": {
     "isLandscape": true,
     "isWindowTop": false,
-    "name": "NewCocosProject",
+    "name": "zscq-web",
     "width": 960,
     "height": 640,
     "entry": "main.js",
