@@ -59,7 +59,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "UI/login_14.jpg",
+                  "Path": "UI/LoginUI/login_14.jpg",
                   "Plist": ""
                 },
                 "Scale9OriginX": 15,
@@ -94,7 +94,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "UI/login_15.jpg",
+                      "Path": "UI/LoginUI/login_15.jpg",
                       "Plist": ""
                     },
                     "Scale9OriginX": 337,
@@ -142,48 +142,6 @@
                 },
                 "Name": "Image_bg1",
                 "ctype": "ImageViewObjectData"
-              },
-              {
-                "FileData": {
-                  "Type": "Default",
-                  "Path": "Default/defaultParticle.plist",
-                  "Plist": ""
-                },
-                "BlendFunc": {
-                  "Src": 770,
-                  "Dst": 1
-                },
-                "AnchorPoint": {},
-                "Position": {
-                  "X": 480.0,
-                  "Y": 300.0
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": true,
-                "PrePosition": {
-                  "X": 0.5,
-                  "Y": 0.4688
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 480.0,
-                "RightMargin": 480.0,
-                "TopMargin": 340.0,
-                "BottomMargin": 300.0,
-                "Tag": 182,
-                "ActionTag": -2105478038,
-                "Size": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "Name": "Particle_bg",
-                "ctype": "ParticleObjectData"
               }
             ],
             "ActionTag": -116190344,
@@ -193,50 +151,6 @@
             },
             "Name": "Panel_bg",
             "ctype": "PanelObjectData"
-          },
-          {
-            "FileData": {
-              "Type": "Default",
-              "Path": "Default/defaultParticle.plist",
-              "Plist": ""
-            },
-            "BlendFunc": {
-              "Src": 770,
-              "Dst": 1
-            },
-            "AnchorPoint": {},
-            "Position": {
-              "X": 480.0,
-              "Y": 320.0
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": true,
-            "PositionPercentXEnabled": true,
-            "PositionPercentYEnabled": true,
-            "PrePosition": {
-              "X": 0.5,
-              "Y": 0.5
-            },
-            "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "LeftMargin": 480.0,
-            "RightMargin": 480.0,
-            "TopMargin": 320.0,
-            "BottomMargin": 320.0,
-            "Tag": 3211,
-            "ActionTag": 292298110,
-            "Size": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "Name": "Particle_1",
-            "ctype": "ParticleObjectData"
           },
           {
             "FontSize": 20,
@@ -249,12 +163,12 @@
             },
             "PressedFileData": {
               "Type": "Normal",
-              "Path": "UI/login_16.png",
+              "Path": "UI/LoginUI/login_16.png",
               "Plist": ""
             },
             "NormalFileData": {
               "Type": "Normal",
-              "Path": "UI/login_16.png",
+              "Path": "UI/LoginUI/login_16.png",
               "Plist": ""
             },
             "Scale9Enable": true,
@@ -322,12 +236,12 @@
             },
             "PressedFileData": {
               "Type": "Normal",
-              "Path": "UI/login_17.png",
+              "Path": "UI/LoginUI/login_17.png",
               "Plist": ""
             },
             "NormalFileData": {
               "Type": "Normal",
-              "Path": "UI/login_17.png",
+              "Path": "UI/LoginUI/login_17.png",
               "Plist": ""
             },
             "Scale9Enable": true,
@@ -392,11 +306,26 @@
               "G": 65,
               "B": 70
             },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "UI/Public/public_7.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "UI/Public/public_7.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "UI/Public/public_7.png",
+              "Plist": ""
+            },
             "Scale9Enable": true,
-            "Scale9OriginX": -15,
-            "Scale9OriginY": -11,
-            "Scale9Width": 30,
-            "Scale9Height": 22,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 226,
+            "Scale9Height": 150,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -448,7 +377,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "UI/login_2.png",
+              "Path": "UI/LoginUI/login_2.png",
               "Plist": ""
             },
             "Scale9OriginX": 208,
@@ -489,7 +418,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "UI/login_1.png",
+                  "Path": "UI/LoginUI/login_1.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 150,
@@ -536,7 +465,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "UI/login_18.png",
+                  "Path": "UI/LoginUI/login_18.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 150,
@@ -636,7 +565,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "UI/login_12.png",
+                  "Path": "UI/LoginUI/login_11.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 18,
@@ -676,13 +605,12 @@
                   "X": 57.0,
                   "Y": 33.0
                 },
-                "VisibleForFrame": false,
                 "Name": "Image_SerState",
                 "ctype": "ImageViewObjectData"
               },
               {
                 "FontSize": 22,
-                "LabelText": "",
+                "LabelText": "战神传奇999服",
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -713,18 +641,18 @@
                   "Y": 0.5
                 },
                 "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
+                  "X": 0.2263,
+                  "Y": 0.3607
                 },
                 "LeftMargin": 293.54,
-                "RightMargin": 338.46,
-                "TopMargin": 30.5,
-                "BottomMargin": 30.5,
+                "RightMargin": 195.46,
+                "TopMargin": 19.5,
+                "BottomMargin": 19.5,
                 "Tag": 118,
                 "ActionTag": 1478573255,
                 "Size": {
-                  "X": 0.0,
-                  "Y": 0.0
+                  "X": 143.0,
+                  "Y": 22.0
                 },
                 "Name": "Text_SerDes",
                 "ctype": "TextObjectData"
@@ -732,7 +660,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "UI/login_3.png",
+                  "Path": "UI/LoginUI/login_3.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 29,
@@ -845,16 +773,16 @@
       },
       "UsedResources": [
         "Default/Button_Disable.png",
-        "Default/defaultParticle.plist",
-        "UI/login_1.png",
-        "UI/login_12.png",
-        "UI/login_14.jpg",
-        "UI/login_15.jpg",
-        "UI/login_16.png",
-        "UI/login_17.png",
-        "UI/login_18.png",
-        "UI/login_2.png",
-        "UI/login_3.png"
+        "UI/LoginUI/login_1.png",
+        "UI/LoginUI/login_11.png",
+        "UI/LoginUI/login_14.jpg",
+        "UI/LoginUI/login_15.jpg",
+        "UI/LoginUI/login_16.png",
+        "UI/LoginUI/login_17.png",
+        "UI/LoginUI/login_18.png",
+        "UI/LoginUI/login_2.png",
+        "UI/LoginUI/login_3.png",
+        "UI/Public/public_7.png"
       ],
       "ctype": "GameFileData"
     }

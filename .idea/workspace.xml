@@ -2,42 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f0240f4-1faa-49f5-83d9-c10bb8659ce2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/NewCocosProject.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewCocosProject.ccs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewCocosProject.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewCocosProject.udf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/MainScene.udf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.ios_mac/NewCocosProject.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.win32/NewCocosProject.sdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.win32/NewCocosProject.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.win32/NewCocosProject.v12.suo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.win32/NewCocosProject.vcxproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.win32/NewCocosProject.vcxproj.filters" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.win32/NewCocosProject.vcxproj.user" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/start_N.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/start_S.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/sushi.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/sushi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PlayScene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StartScene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/SushiSprite.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LoginUI.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/HelloWorld.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/MainScene.csd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/login_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cocosstudio/UI/particle02.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/Default/Button_Disable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/Default/ImageFile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/Default/defaultParticle.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/HelloWorld.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/MainScene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/login_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/UI/particle02.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/csb/LoginUI.csb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosstudio/MainScene.csd" afterPath="$PROJECT_DIR$/cocosstudio/MainScene.csd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.json" afterPath="$PROJECT_DIR$/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/.project" afterPath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/build.xml" afterPath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/res/values/strings.xml" afterPath="$PROJECT_DIR$/frameworks/runtime-src/proj.android/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.ios_mac/ios/Info.plist" afterPath="$PROJECT_DIR$/frameworks/runtime-src/proj.ios_mac/ios/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/runtime-src/proj.ios_mac/mac/Info.plist" afterPath="$PROJECT_DIR$/frameworks/runtime-src/proj.ios_mac/mac/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosstudio/LoginUI.csd" afterPath="$PROJECT_DIR$/cocosstudio/LoginUI.csd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.json" afterPath="$PROJECT_DIR$/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/LoginUI.json" afterPath="$PROJECT_DIR$/res/LoginUI.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.js" afterPath="$PROJECT_DIR$/src/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resource.js" afterPath="$PROJECT_DIR$/src/resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zscq-web.ccs" afterPath="$PROJECT_DIR$/zscq-web.ccs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zscq-web.cfg" afterPath="$PROJECT_DIR$/zscq-web.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zscq-web.udf" afterPath="$PROJECT_DIR$/zscq-web.udf" />
     </list>
     <ignored path="zscq-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,21 +72,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app.js">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="63" column="74" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,14 +95,21 @@
       <file leaf-file-name="resource.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/resource.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69024855">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9082218">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,9 +118,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/resource.js" />
-        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/SceneMgr.js" />
+        <option value="$PROJECT_DIR$/src/LoginUI.js" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/resource.js" />
       </list>
     </option>
   </component>
@@ -275,7 +298,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -296,10 +319,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32695985">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/cocoa/CCGeometry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="74" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -307,15 +346,15 @@
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69024855">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.9082218">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
